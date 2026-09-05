@@ -1,0 +1,129 @@
+{
+  "date": "2026-09-05",
+  "series": 1,
+  "total_shown": 10,
+  "generated_at": "2026-09-05T11:35:50+08:00",
+  "timezone": "Asia/Shanghai",
+  "items": [
+    {
+      "rank": 1,
+      "full_name": "Flowseal/zapret-discord-youtube",
+      "name": "zapret-discord-youtube",
+      "owner": "Flowseal",
+      "html_url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "description": null,
+      "stars": 32885,
+      "language": "Batchfile",
+      "has_quote": false,
+      "quote": null
+    },
+    {
+      "rank": 2,
+      "full_name": "apple/ml-stable-diffusion",
+      "name": "ml-stable-diffusion",
+      "owner": "apple",
+      "html_url": "https://github.com/apple/ml-stable-diffusion",
+      "description": "Stable Diffusion with Core ML on Apple Silicon",
+      "stars": 17974,
+      "language": "Python",
+      "has_quote": true,
+      "quote": "Stable Diffusion with Core ML on Apple Silicon"
+    },
+    {
+      "rank": 3,
+      "full_name": "aFarkas/lazysizes",
+      "name": "lazysizes",
+      "owner": "aFarkas",
+      "html_url": "https://github.com/aFarkas/lazysizes",
+      "description": "High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.",
+      "stars": 17718,
+      "language": "JavaScript",
+      "has_quote": false,
+      "quote": null
+    },
+    {
+      "rank": 4,
+      "full_name": "Rapptz/discord.py",
+      "name": "discord.py",
+      "owner": "Rapptz",
+      "html_url": "https://github.com/Rapptz/discord.py",
+      "description": "An API wrapper for Discord written in Python.",
+      "stars": 16165,
+      "language": "Python",
+      "has_quote": true,
+      "quote": "An API wrapper for Discord written in Python."
+    },
+    {
+      "rank": 5,
+      "full_name": "dvajs/dva",
+      "name": "dva",
+      "owner": "dvajs",
+      "html_url": "https://github.com/dvajs/dva",
+      "description": "🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)",
+      "stars": 16147,
+      "language": "JavaScript",
+      "has_quote": true,
+      "quote": "🌱 React and redux based, lightweight and elm-style framework."
+    },
+    {
+      "rank": 6,
+      "full_name": "facebook/infer",
+      "name": "infer",
+      "owner": "facebook",
+      "html_url": "https://github.com/facebook/infer",
+      "description": "A static analyzer for Java, C, C++, and Objective-C",
+      "stars": 15701,
+      "language": "OCaml",
+      "has_quote": true,
+      "quote": "A static analyzer for Java, C, C++, and Objective-C"
+    },
+    {
+      "rank": 7,
+      "full_name": "gatieme/CodingInterviews",
+      "name": "CodingInterviews",
+      "owner": "gatieme",
+      "html_url": "https://github.com/gatieme/CodingInterviews",
+      "description": "剑指Offer——名企面试官精讲典型编程题",
+      "stars": 4856,
+      "language": "C++",
+      "has_quote": true,
+      "quote": "剑指Offer——名企面试官精讲典型编程题"
+    },
+    {
+      "rank": 8,
+      "full_name": "may215/awesome-termux-hacking",
+      "name": "awesome-termux-hacking",
+      "owner": "may215",
+      "html_url": "https://github.com/may215/awesome-termux-hacking",
+      "description": "⚡️An awesome list of the best Termux hacking tools ",
+      "stars": 4788,
+      "language": null,
+      "has_quote": true,
+      "quote": "⚡️An awesome list of the best Termux hacking tools"
+    },
+    {
+      "rank": 9,
+      "full_name": "InioX/matugen",
+      "name": "matugen",
+      "owner": "InioX",
+      "html_url": "https://github.com/InioX/matugen",
+      "description": "A cross-platform material you and base16 color generation tool",
+      "stars": 1981,
+      "language": "Rust",
+      "has_quote": true,
+      "quote": "A cross-platform material you and base16 color generation tool"
+    },
+    {
+      "rank": 10,
+      "full_name": "f/vue-wait",
+      "name": "vue-wait",
+      "owner": "f",
+      "html_url": "https://github.com/f/vue-wait",
+      "description": "Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications",
+      "stars": 1976,
+      "language": "JavaScript",
+      "has_quote": true,
+      "quote": "Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications"
+    }
+  ]
+}

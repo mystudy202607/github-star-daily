@@ -1,0 +1,469 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark light">
+  <meta name="description" content="每天北京时间 08:00 自动更新的 GitHub 高 Star 项目精选，跨天不重样。">
+  <title>GitHub 每日高星精选 · 2026年9月5日 星期六</title>
+  <style>
+    :root {
+      --bg: #0d1117;
+      --bg-soft: #11161d;
+      --card: #161b22;
+      --border: #30363d;
+      --text: #e6edf3;
+      --muted: #8b949e;
+      --accent: #58a6ff;
+      --star: #e3b341;
+      --green: #3fb950;
+      --shadow: 0 12px 30px rgba(1, 4, 9, 0.35);
+      --max: 960px;
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #f6f8fa;
+        --bg-soft: #ffffff;
+        --card: #ffffff;
+        --border: #d0d7de;
+        --text: #1f2328;
+        --muted: #57606a;
+        --accent: #0969da;
+        --star: #9a6700;
+        --green: #1a7f37;
+        --shadow: 0 12px 30px rgba(140, 149, 159, 0.18);
+      }
+    }
+    * { box-sizing: border-box; }
+    html { -webkit-text-size-adjust: 100%; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+        "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+      line-height: 1.6;
+    }
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      z-index: -1;
+      background:
+        radial-gradient(700px 320px at 15% -5%, rgba(88, 166, 255, 0.13), transparent 60%),
+        radial-gradient(700px 300px at 90% 0%, rgba(63, 185, 80, 0.08), transparent 55%),
+        var(--bg);
+    }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .wrap { max-width: var(--max); margin: 0 auto; padding: 34px 18px 60px; }
+    .hero { text-align: center; margin: 12px 0 28px; }
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: .6px;
+      color: var(--green);
+      background: rgba(63, 185, 80, .1);
+      border: 1px solid rgba(63, 185, 80, .35);
+      padding: 5px 12px;
+      border-radius: 999px;
+      margin-bottom: 18px;
+    }
+    .badge .pulse { width: 7px; height: 7px; border-radius: 50%; background: var(--green); animation: pulse 2s infinite; }
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .3; } }
+    h1 { font-size: clamp(26px, 5vw, 40px); margin: 0 0 8px; letter-spacing: .5px; }
+    .subtitle { color: var(--muted); margin: 0 0 22px; font-size: 14px; }
+    .controls {
+      display: inline-flex;
+      gap: 8px;
+      background: var(--bg-soft);
+      border: 1px solid var(--border);
+      padding: 5px;
+      border-radius: 12px;
+    }
+    .controls button {
+      appearance: none;
+      border: 0;
+      background: transparent;
+      color: var(--muted);
+      font: inherit;
+      font-size: 13px;
+      padding: 8px 15px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background .15s ease, color .15s ease;
+    }
+    .controls button.active {
+      background: var(--accent);
+      color: #ffffff;
+      font-weight: 600;
+    }
+    .controls button b {
+      font-weight: 700;
+      opacity: .85;
+      margin-left: 2px;
+    }
+    .cards { display: grid; gap: 14px; margin-top: 26px; }
+    .card {
+      display: block;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 18px 20px;
+      box-shadow: var(--shadow);
+      transition: transform .15s ease, border-color .15s ease;
+    }
+    .card:hover { border-color: rgba(88, 166, 255, .45); transform: translateY(-1px); }
+    .card.hidden { display: none; }
+    .card-head { display: flex; align-items: flex-start; gap: 14px; }
+    .rank {
+      flex: none;
+      font-size: 20px;
+      font-weight: 800;
+      letter-spacing: .5px;
+      font-variant-numeric: tabular-nums;
+      color: transparent;
+      -webkit-text-stroke: 1px var(--accent);
+      padding-top: 2px;
+    }
+    .repo { min-width: 0; flex: 1; }
+    .repo .name {
+      color: var(--text);
+      font-weight: 650;
+      font-size: 17px;
+      word-break: break-all;
+      display: block;
+    }
+    .repo .owner { color: var(--muted); font-size: 12.5px; }
+    .head-right { flex: none; display: flex; flex-direction: column; align-items: flex-end; gap: 6px; }
+    .stars { color: var(--star); font-weight: 700; font-size: 15px; white-space: nowrap; }
+    .quote-chip {
+      font-size: 11px;
+      color: var(--green);
+      border: 1px solid rgba(63,185,80,.4);
+      background: rgba(63,185,80,.08);
+      padding: 2px 8px;
+      border-radius: 999px;
+      white-space: nowrap;
+    }
+    .desc {
+      margin: 12px 0 0;
+      color: var(--muted);
+      font-size: 14px;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .quote {
+      display: none;
+      margin: 16px 0 0;
+      color: var(--text);
+      font-size: 17px;
+      line-height: 1.75;
+      font-style: normal;
+      border-left: 3px solid var(--green);
+      padding: 4px 0 4px 14px;
+      background: linear-gradient(90deg, rgba(63,185,80,.07), transparent 70%);
+      border-radius: 0 8px 8px 0;
+    }
+    body.quote-mode .desc { display: none; }
+    body.quote-mode .quote { display: block; }
+    body.quote-mode .quote-chip { display: none; }
+    .card-foot {
+      margin-top: 13px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      font-size: 13px;
+    }
+    .lang { display: inline-flex; align-items: center; gap: 6px; color: var(--muted); }
+    .lang .dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+    .lang.muted { font-style: italic; }
+    .go { font-weight: 600; font-size: 13px; white-space: nowrap; }
+    .tip { text-align: center; color: var(--muted); font-size: 13px; margin: 20px 0 0; min-height: 1.4em; }
+    footer {
+      margin-top: 42px;
+      border-top: 1px solid var(--border);
+      padding-top: 18px;
+      color: var(--muted);
+      font-size: 12.5px;
+      text-align: center;
+    }
+    footer p { margin: 4px 0; }
+    footer a { color: var(--muted); text-decoration: underline; }
+    @media (max-width: 560px) {
+      .wrap { padding: 22px 12px 44px; }
+      .card { padding: 15px 15px; }
+      .card-head { gap: 10px; }
+      .rank { font-size: 17px; }
+      .repo .name { font-size: 15.5px; }
+      .head-right .quote-chip { display: none; }
+      .controls button { padding: 7px 11px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="hero">
+      <div class="badge"><span class="pulse"></span>每天 08:00 自动更新</div>
+      <h1>GitHub 每日高星精选</h1>
+      <p class="subtitle">2026年9月5日 星期六 · 第 1 期 · 累计展示 10 个项目 · 全部与历史不重样</p>
+      <div class="controls" role="group" aria-label="视图筛选">
+        <button id="btnAll" class="active" type="button" aria-pressed="true">全部项目 <b>10</b></button>
+        <button id="btnQuote" type="button" aria-pressed="false">今日金句 <b>8</b></button>
+      </div>
+    </header>
+    <main class="cards" id="cards">
+
+      <article class="card" data-quote="0">
+        <div class="card-head">
+          <span class="rank">01</span>
+          <div class="repo">
+            <a class="name" href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank" rel="noopener noreferrer">Flowseal/zapret-discord-youtube</a>
+            <span class="owner">@Flowseal</span>
+          </div>
+          <div class="head-right">
+            
+            <span class="stars">★ 32.9k</span>
+          </div>
+        </div>
+        <p class="desc">暂无简介</p>
+        
+        <div class="card-foot">
+          <span class="lang"><i class="dot" style="background:#8b949e"></i>Batchfile</span>
+          <a class="go" href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+        </div>
+      </article>
+
+      <article class="card" data-quote="1">
+        <div class="card-head">
+          <span class="rank">02</span>
+          <div class="repo">
+            <a class="name" href="https://github.com/apple/ml-stable-diffusion" target="_blank" rel="noopener noreferrer">apple/ml-stable-diffusion</a>
+            <span class="owner">@apple</span>
+          </div>
+          <div class="head-right">
+            <span class="quote-chip">❝ 今日金句</span>
+            <span class="stars">★ 18.0k</span>
+          </div>
+        </div>
+        <p class="desc">Stable Diffusion with Core ML on Apple Silicon</p>
+        <blockquote class="quote">“Stable Diffusion with Core ML on Apple Silicon”</blockquote>
+        <div class="card-foot">
+          <span class="lang"><i class="dot" style="background:#3572A5"></i>Python</span>
+          <a class="go" href="https://github.com/apple/ml-stable-diffusion" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+        </div>
+      </article>
+
+      <article class="card" data-quote="0">
+        <div class="card-head">
+          <span class="rank">03</span>
+          <div class="repo">
+            <a class="name" href="https://github.com/aFarkas/lazysizes" target="_blank" rel="noopener noreferrer">aFarkas/lazysizes</a>
+            <span class="owner">@aFarkas</span>
+          </div>
+          <div class="head-right">
+            
+            <span class="stars">★ 17.7k</span>
+          </div>
+        </div>
+        <p class="desc">High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.</p>
+        
+        <div class="card-foot">
+          <span class="lang"><i class="dot" style="background:#f1e05a"></i>JavaScript</span>
+          <a class="go" href="https://github.com/aFarkas/lazysizes" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+        </div>
+      </article>
+
+      <article class="card" data-quote="1">
+        <div class="card-head">
+          <span class="rank">04</span>
+          <div class="repo">
+            <a class="name" href="https://github.com/Rapptz/discord.py" target="_blank" rel="noopener noreferrer">Rapptz/discord.py</a>
+            <span class="owner">@Rapptz</span>
+          </div>
+          <div class="head-right">
+            <span class="quote-chip">❝ 今日金句</span>
+            <span class="stars">★ 16.2k</span>
+          </div>
+        </div>
+        <p class="desc">An API wrapper for Discord written in Python.</p>
+        <blockquote class="quote">“An API wrapper for Discord written in Python.”</blockquote>
+        <div class="card-foot">
+          <span class="lang"><i class="dot" style="background:#3572A5"></i>Python</span>
+          <a class="go" href="https://github.com/Rapptz/discord.py" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+        </div>
+      </article>
+
+      <article class="card" data-quote="1">
+        <div class="card-head">
+          <span class="rank">05</span>
+          <div class="repo">
+            <a class="name" href="https://github.com/dvajs/dva" target="_blank" rel="noopener noreferrer">dvajs/dva</a>
+            <span class="owner">@dvajs</span>
+          </div>
+          <div class="head-right">
+            <span class="quote-chip">❝ 今日金句</span>
+            <span class="stars">★ 16.1k</span>
+          </div>
+        </div>
+        <p class="desc">🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)</p>
+        <blockquote class="quote">“🌱 React and redux based, lightweight and elm-style framework.”</blockquote>
+        <div class="card-foot">
+          <span class="lang"><i class="dot" style="background:#f1e05a"></i>JavaScript</span>
+          <a class="go" href="https://github.com/dvajs/dva" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+        </div>
+      </article>
+
+      <article class="card" data-quote="1">
+        <div class="card-head">
+          <span class="rank">06</span>
+          <div class="repo">
+            <a class="name" href="https://github.com/facebook/infer" target="_blank" rel="noopener noreferrer">facebook/infer</a>
+            <span class="owner">@facebook</span>
+          </div>
+          <div class="head-right">
+            <span class="quote-chip">❝ 今日金句</span>
+            <span class="stars">★ 15.7k</span>
+          </div>
+        </div>
+        <p class="desc">A static analyzer for Java, C, C++, and Objective-C</p>
+        <blockquote class="quote">“A static analyzer for Java, C, C++, and Objective-C”</blockquote>
+        <div class="card-foot">
+          <span class="lang"><i class="dot" style="background:#8b949e"></i>OCaml</span>
+          <a class="go" href="https://github.com/facebook/infer" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+        </div>
+      </article>
+
+      <article class="card" data-quote="1">
+        <div class="card-head">
+          <span class="rank">07</span>
+          <div class="repo">
+            <a class="name" href="https://github.com/gatieme/CodingInterviews" target="_blank" rel="noopener noreferrer">gatieme/CodingInterviews</a>
+            <span class="owner">@gatieme</span>
+          </div>
+          <div class="head-right">
+            <span class="quote-chip">❝ 今日金句</span>
+            <span class="stars">★ 4.9k</span>
+          </div>
+        </div>
+        <p class="desc">剑指Offer——名企面试官精讲典型编程题</p>
+        <blockquote class="quote">“剑指Offer——名企面试官精讲典型编程题”</blockquote>
+        <div class="card-foot">
+          <span class="lang"><i class="dot" style="background:#f34b7d"></i>C++</span>
+          <a class="go" href="https://github.com/gatieme/CodingInterviews" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+        </div>
+      </article>
+
+      <article class="card" data-quote="1">
+        <div class="card-head">
+          <span class="rank">08</span>
+          <div class="repo">
+            <a class="name" href="https://github.com/may215/awesome-termux-hacking" target="_blank" rel="noopener noreferrer">may215/awesome-termux-hacking</a>
+            <span class="owner">@may215</span>
+          </div>
+          <div class="head-right">
+            <span class="quote-chip">❝ 今日金句</span>
+            <span class="stars">★ 4.8k</span>
+          </div>
+        </div>
+        <p class="desc">⚡️An awesome list of the best Termux hacking tools </p>
+        <blockquote class="quote">“⚡️An awesome list of the best Termux hacking tools”</blockquote>
+        <div class="card-foot">
+          <span class="lang muted">无语言</span>
+          <a class="go" href="https://github.com/may215/awesome-termux-hacking" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+        </div>
+      </article>
+
+      <article class="card" data-quote="1">
+        <div class="card-head">
+          <span class="rank">09</span>
+          <div class="repo">
+            <a class="name" href="https://github.com/InioX/matugen" target="_blank" rel="noopener noreferrer">InioX/matugen</a>
+            <span class="owner">@InioX</span>
+          </div>
+          <div class="head-right">
+            <span class="quote-chip">❝ 今日金句</span>
+            <span class="stars">★ 2.0k</span>
+          </div>
+        </div>
+        <p class="desc">A cross-platform material you and base16 color generation tool</p>
+        <blockquote class="quote">“A cross-platform material you and base16 color generation tool”</blockquote>
+        <div class="card-foot">
+          <span class="lang"><i class="dot" style="background:#dea584"></i>Rust</span>
+          <a class="go" href="https://github.com/InioX/matugen" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+        </div>
+      </article>
+
+      <article class="card" data-quote="1">
+        <div class="card-head">
+          <span class="rank">10</span>
+          <div class="repo">
+            <a class="name" href="https://github.com/f/vue-wait" target="_blank" rel="noopener noreferrer">f/vue-wait</a>
+            <span class="owner">@f</span>
+          </div>
+          <div class="head-right">
+            <span class="quote-chip">❝ 今日金句</span>
+            <span class="stars">★ 2.0k</span>
+          </div>
+        </div>
+        <p class="desc">Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications</p>
+        <blockquote class="quote">“Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications”</blockquote>
+        <div class="card-foot">
+          <span class="lang"><i class="dot" style="background:#f1e05a"></i>JavaScript</span>
+          <a class="go" href="https://github.com/f/vue-wait" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+        </div>
+      </article>
+    </main>
+    <p class="tip" id="tip"></p>
+    <footer>
+      <p>数据来源：GitHub 官方 Search API（高 Star、非 fork、非归档）</p>
+      <p>「今日金句」= 以句号 / 叹号 / 问号完整收尾的简介（无链接 / 占位符，长度 10–160 字符）</p>
+      <p>更新于 2026-09-05 11:35（北京时间） · <a href="https://github.com/mystudy202607/github-star-daily" target="_blank" rel="noopener noreferrer">查看源码与每日更新机制</a></p>
+    </footer>
+  </div>
+
+  <script>
+    (function () {
+      var btnAll = document.getElementById("btnAll");
+      var btnQuote = document.getElementById("btnQuote");
+      var cards = Array.prototype.slice.call(document.querySelectorAll(".card"));
+      var tip = document.getElementById("tip");
+      var quoteCount = cards.filter(function (c) { return c.dataset.quote === "1"; }).length;
+
+      function setMode(mode) {
+        var quoteMode = mode === "quote";
+        document.body.classList.toggle("quote-mode", quoteMode);
+        btnAll.classList.toggle("active", !quoteMode);
+        btnQuote.classList.toggle("active", quoteMode);
+        btnAll.setAttribute("aria-pressed", String(!quoteMode));
+        btnQuote.setAttribute("aria-pressed", String(quoteMode));
+        cards.forEach(function (card) {
+          var visible = !quoteMode || card.dataset.quote === "1";
+          card.classList.toggle("hidden", !visible);
+        });
+        if (quoteMode && quoteCount === 0) {
+          tip.textContent = "今日 10 条简介均未达到金句标准，已自动切回全部项目。";
+        } else {
+          tip.textContent = "";
+        }
+      }
+
+      btnAll.addEventListener("click", function () { setMode("all"); });
+      btnQuote.addEventListener("click", function () {
+        if (quoteCount === 0) {
+          tip.textContent = "今日暂无符合条件的金句简介。";
+          return;
+        }
+        setMode("quote");
+      });
+    })();
+  </script>
+</body>
+</html>

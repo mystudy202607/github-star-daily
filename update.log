@@ -1,0 +1,13 @@
+[2026-09-05 11:31:18] 开始刷新候选池...
+[2026-09-05 11:32:20] 区间 stars:>20000：候选池累计 1000 个
+[2026-09-05 11:33:23] 区间 stars:5000..20000：候选池累计 2000 个
+[2026-09-05 11:34:23] 区间 stars:2000..5000：候选池累计 3000 个
+[2026-09-05 11:35:24] 区间 stars:800..2000：候选池累计 4000 个
+[2026-09-05 11:35:24] 候选池刷新完成：4000 个唯一项目
+[2026-09-05 11:35:28] 抽选 2026-09-05：MunGell/awesome-for-beginners, type-challenges/type-challenges, SnapKit/Masonry, umijs/qiankun, jsdoc/jsdoc, mermaid-js/mermaid-cli, pterodactyl-installer/pterodactyl-installer, nashtech-garage/yas, Tencent/ObjectDetection-OneStageDet, openresty/lua-resty-redis
+[2026-09-05 11:35:28] 已保存 data.json（第 1 期，累计 10 条）
+[2026-09-05 11:35:28] index.html 已重新生成
+[2026-09-05 11:35:50] 抽选 2026-09-05：Flowseal/zapret-discord-youtube, apple/ml-stable-diffusion, aFarkas/lazysizes, Rapptz/discord.py, dvajs/dva, facebook/infer, gatieme/CodingInterviews, may215/awesome-termux-hacking, InioX/matugen, f/vue-wait
+[2026-09-05 11:35:50] 已保存 data.json（第 1 期，累计 10 条）
+[2026-09-05 11:35:50] index.html 已重新生成
+[2026-09-05 11:35:57] 抽选 2026-09-06：expressjs/express, Light-City/CPlusPlusThings, fatih/vim-go, end-4/dots-hyprland, yuin/goldmark, faruktoptas/FancyShowCaseView, malcommac/Hydra, peng-zhihui/DeepVision, php-school/cli-menu, onevcat/Rainbow
