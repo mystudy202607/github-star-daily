@@ -14,6 +14,21 @@
         "InioX/matugen",
         "f/vue-wait"
       ]
+    },
+    {
+      "date": "2026-09-06",
+      "repos": [
+        "NationalSecurityAgency/ghidra",
+        "Mintplex-Labs/anything-llm",
+        "karpathy/nanochat",
+        "hashicorp/terraform",
+        "pear-devs/pear-desktop",
+        "scalar/scalar",
+        "alibaba/MNN",
+        "gitpoint/git-point",
+        "PKU-Alignment/align-anything",
+        "Qihoo360/poseidon"
+      ]
     }
   ]
 }
