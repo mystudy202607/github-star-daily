@@ -29,6 +29,21 @@
         "PKU-Alignment/align-anything",
         "Qihoo360/poseidon"
       ]
+    },
+    {
+      "date": "2026-09-07",
+      "repos": [
+        "Kong/kong",
+        "HeyPuter/puter",
+        "eggjs/egg",
+        "alibaba/DataX",
+        "wolfpld/tracy",
+        "MemoriLabs/Memori",
+        "gyscos/cursive",
+        "apple/password-manager-resources",
+        "databricks/spark-deep-learning",
+        "Guang000/Awesome-Dataset-Distillation"
+      ]
     }
   ]
 }
