@@ -44,6 +44,21 @@
         "databricks/spark-deep-learning",
         "Guang000/Awesome-Dataset-Distillation"
       ]
+    },
+    {
+      "date": "2026-09-08",
+      "repos": [
+        "datalab-to/marker",
+        "linshenkx/prompt-optimizer",
+        "browser-use/browser-harness",
+        "wazuh/wazuh",
+        "goq/telegram-list",
+        "fastmail/Squire",
+        "stephenmcd/mezzanine",
+        "dotnet/machinelearning-samples",
+        "iron-meteor/iron-router",
+        "iaddis/metalnes"
+      ]
     }
   ]
 }
