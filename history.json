@@ -59,6 +59,21 @@
         "iron-meteor/iron-router",
         "iaddis/metalnes"
       ]
+    },
+    {
+      "date": "2026-09-09",
+      "repos": [
+        "dhg/Skeleton",
+        "SWivid/F5-TTS",
+        "togethercomputer/RedPajama-Data",
+        "formkit/formkit",
+        "session-replay-tools/tcpcopy",
+        "HobbitLong/PyContrast",
+        "Starcounter-Jack/JSON-Patch",
+        "astaxie/gopkg",
+        "sainnhe/sonokai",
+        "YouMind-OpenLab/awesome-seedance-2-prompts"
+      ]
     }
   ]
 }
