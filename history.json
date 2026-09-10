@@ -74,6 +74,21 @@
         "sainnhe/sonokai",
         "YouMind-OpenLab/awesome-seedance-2-prompts"
       ]
+    },
+    {
+      "date": "2026-09-10",
+      "repos": [
+        "awesome-selfhosted/awesome-selfhosted",
+        "clash-verge-rev/clash-verge-rev",
+        "nvbn/thefuck",
+        "expressjs/express",
+        "aymericdamien/TensorFlow-Examples",
+        "nikic/PHP-Parser",
+        "chiphuyen/aie-book",
+        "statamic/cms",
+        "darkmatter2048/WindowsCleaner",
+        "thank-you-github/thank-you-github"
+      ]
     }
   ]
 }
