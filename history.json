@@ -104,6 +104,21 @@
         "will8211/unimatrix",
         "kyegomez/BitNet"
       ]
+    },
+    {
+      "date": "2026-09-12",
+      "repos": [
+        "HelloZeroNet/ZeroNet",
+        "CodeByZach/pace",
+        "microsoft/FluidFramework",
+        "crazy-max/diun",
+        "cpq/bare-metal-programming-guide",
+        "zdharma-continuum/zinit",
+        "chipsalliance/chisel",
+        "zq2599/blog_demos",
+        "andri27-ts/Reinforcement-Learning",
+        "https-deeplearning-ai/machine-learning-engineering-for-production-public"
+      ]
     }
   ]
 }
