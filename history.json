@@ -119,6 +119,21 @@
         "andri27-ts/Reinforcement-Learning",
         "https-deeplearning-ai/machine-learning-engineering-for-production-public"
       ]
+    },
+    {
+      "date": "2026-09-13",
+      "repos": [
+        "MunGell/awesome-for-beginners",
+        "scutan90/DeepLearning-500-questions",
+        "AlistGo/alist",
+        "microsoft/BitNet",
+        "NervJS/taro",
+        "s1dashu/ip-as-logo-skill",
+        "nntaoli-project/goex",
+        "Octane0411/open-vibe-island",
+        "openai/openai-assistants-quickstart",
+        "fossasia/star-me"
+      ]
     }
   ]
 }
