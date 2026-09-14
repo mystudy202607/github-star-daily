@@ -134,6 +134,21 @@
         "openai/openai-assistants-quickstart",
         "fossasia/star-me"
       ]
+    },
+    {
+      "date": "2026-09-14",
+      "repos": [
+        "microsoft/AirSim",
+        "cure53/DOMPurify",
+        "owainlewis/awesome-artificial-intelligence",
+        "Homebrew/homebrew-core",
+        "YosysHQ/yosys",
+        "HotCakeX/Harden-Windows-Security",
+        "peers/peerjs-server",
+        "apple-aiml-research/ml-cvnets",
+        "antonioribeiro/health",
+        "apptainer/apptainer"
+      ]
     }
   ]
 }
