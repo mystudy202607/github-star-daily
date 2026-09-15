@@ -149,6 +149,21 @@
         "antonioribeiro/health",
         "apptainer/apptainer"
       ]
+    },
+    {
+      "date": "2026-09-15",
+      "repos": [
+        "mozilla/pdf.js",
+        "GitHubDaily/GitHubDaily",
+        "khoj-ai/khoj",
+        "kubeflow/kubeflow",
+        "aickin/react-dom-stream",
+        "moveit/moveit2",
+        "mewebstudio/Purifier",
+        "floydhub/dl-setup",
+        "mackyle/sqlite",
+        "deadc0de6/dotdrop"
+      ]
     }
   ]
 }
