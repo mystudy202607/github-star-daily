@@ -164,6 +164,21 @@
         "mackyle/sqlite",
         "deadc0de6/dotdrop"
       ]
+    },
+    {
+      "date": "2026-09-16",
+      "repos": [
+        "ComposioHQ/awesome-claude-skills",
+        "CompVis/stable-diffusion",
+        "mlc-ai/web-llm",
+        "motion-canvas/motion-canvas",
+        "google/magika",
+        "testcontainers/testcontainers-go",
+        "git-tfs/git-tfs",
+        "forloopcodes/contextplus",
+        "OtterBrowser/otter-browser",
+        "ccyyycy/ycy"
+      ]
     }
   ]
 }
