@@ -194,6 +194,21 @@
         "Elanis/web-to-desktop-framework-comparison",
         "flexn-io/renative"
       ]
+    },
+    {
+      "date": "2026-09-18",
+      "repos": [
+        "punkpeye/awesome-mcp-servers",
+        "PlexPt/awesome-chatgpt-prompts-zh",
+        "nothings/stb",
+        "lib-pku/libpku",
+        "yuliskov/SmartTube",
+        "ionic-team/ionicons",
+        "umijs/qiankun",
+        "LibreTranslate/LibreTranslate",
+        "hfiref0x/WinObjEx64",
+        "vhakulinen/gnvim"
+      ]
     }
   ]
 }
