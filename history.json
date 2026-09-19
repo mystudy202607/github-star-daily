@@ -209,6 +209,21 @@
         "hfiref0x/WinObjEx64",
         "vhakulinen/gnvim"
       ]
+    },
+    {
+      "date": "2026-09-19",
+      "repos": [
+        "dbeaver/dbeaver",
+        "llvm/llvm-project",
+        "xai-org/x-algorithm",
+        "adonisjs/core",
+        "anthropics/claude-quickstarts",
+        "justauth/JustAuth",
+        "ggml-org/ggml",
+        "feyninc/chonkie",
+        "win4r/AISuperDomain",
+        "duty1g/x64dbg-mcp-server"
+      ]
     }
   ]
 }
