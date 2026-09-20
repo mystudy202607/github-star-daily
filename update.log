@@ -59,3 +59,12 @@
 [2026-09-19 11:30:16] 抽选 2026-09-19：dbeaver/dbeaver, llvm/llvm-project, xai-org/x-algorithm, adonisjs/core, anthropics/claude-quickstarts, justauth/JustAuth, ggml-org/ggml, feyninc/chonkie, win4r/AISuperDomain, duty1g/x64dbg-mcp-server
 [2026-09-19 11:30:16] 已保存 data.json（第 15 期，累计 150 条）
 [2026-09-19 11:30:16] index.html 已重新生成
+[2026-09-20 11:46:22] 开始刷新候选池...
+[2026-09-20 11:47:07] 区间 stars:>20000：候选池累计 4159 个
+[2026-09-20 11:47:53] 区间 stars:5000..20000：候选池累计 4173 个
+[2026-09-20 11:48:39] 区间 stars:2000..5000：候选池累计 4211 个
+[2026-09-20 11:49:26] 区间 stars:800..2000：候选池累计 4276 个
+[2026-09-20 11:49:26] 候选池刷新完成：4276 个唯一项目
+[2026-09-20 11:49:26] 抽选 2026-09-20：n8n-io/n8n, tmux/tmux, 666ghj/BettaFish, winterbe/java8-tutorial, preactjs/wmr, martanne/vis, dahlia/logtape, orangeduck/Corange, t6x/reaver-wps-fork-t6x, mcostalba/Stockfish
+[2026-09-20 11:49:26] 已保存 data.json（第 16 期，累计 160 条）
+[2026-09-20 11:49:26] index.html 已重新生成

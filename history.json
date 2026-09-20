@@ -224,6 +224,21 @@
         "win4r/AISuperDomain",
         "duty1g/x64dbg-mcp-server"
       ]
+    },
+    {
+      "date": "2026-09-20",
+      "repos": [
+        "n8n-io/n8n",
+        "tmux/tmux",
+        "666ghj/BettaFish",
+        "winterbe/java8-tutorial",
+        "preactjs/wmr",
+        "martanne/vis",
+        "dahlia/logtape",
+        "orangeduck/Corange",
+        "t6x/reaver-wps-fork-t6x",
+        "mcostalba/Stockfish"
+      ]
     }
   ]
 }
