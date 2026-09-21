@@ -239,6 +239,21 @@
         "t6x/reaver-wps-fork-t6x",
         "mcostalba/Stockfish"
       ]
+    },
+    {
+      "date": "2026-09-21",
+      "repos": [
+        "spring-projects/spring-boot",
+        "Leaflet/Leaflet",
+        "react-native-webrtc/react-native-webrtc",
+        "nibzard/awesome-agentic-patterns",
+        "preservim/vim-markdown",
+        "eliaszon/Programmers-Overseas-Job-Interview-Handbook",
+        "esimov/pigo",
+        "mattpocock/dictionary-of-ai-coding",
+        "M66B/FairEmail",
+        "jeffbski/wait-on"
+      ]
     }
   ]
 }
