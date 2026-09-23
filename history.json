@@ -269,6 +269,21 @@
         "blei-lab/edward",
         "zeroruka/GI-Assets"
       ]
+    },
+    {
+      "date": "2026-09-23",
+      "repos": [
+        "usebruno/bruno",
+        "naptha/tesseract.js",
+        "julianshapiro/velocity",
+        "hyperium/hyper",
+        "java-decompiler/jd-gui",
+        "googlemaps/google-maps-services-python",
+        "OpenGVLab/DragGAN",
+        "aubepkg/aube",
+        "merveenoyan/smol-vision",
+        "manfredsteyer/angular-oauth2-oidc"
+      ]
     }
   ]
 }
