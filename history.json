@@ -284,6 +284,21 @@
         "merveenoyan/smol-vision",
         "manfredsteyer/angular-oauth2-oidc"
       ]
+    },
+    {
+      "date": "2026-09-24",
+      "repos": [
+        "ionic-team/ionic-framework",
+        "facebookresearch/sam2",
+        "python-jsonschema/jsonschema",
+        "lfit/itpol",
+        "dotnet/docs",
+        "claration/feather",
+        "pythonguis/pythonguis-examples",
+        "michaelbromley/angularUtils",
+        "joshyattridge/smart-money-concepts",
+        "webpack/minimizer-webpack-plugin"
+      ]
     }
   ]
 }
