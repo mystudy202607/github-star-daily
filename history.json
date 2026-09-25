@@ -299,6 +299,21 @@
         "joshyattridge/smart-money-concepts",
         "webpack/minimizer-webpack-plugin"
       ]
+    },
+    {
+      "date": "2026-09-25",
+      "repos": [
+        "vllm-project/vllm",
+        "byoungd/up",
+        "metabase/metabase",
+        "danny-avila/LibreChat",
+        "mhinz/vim-galore",
+        "SaladDay/cc-switch-cli",
+        "vuejs/vue-loader",
+        "IrisRainbowNeko/genshin_auto_fish",
+        "wandergis/coordtransform",
+        "kwuking/TimeMixer"
+      ]
     }
   ]
 }
