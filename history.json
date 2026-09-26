@@ -314,6 +314,21 @@
         "wandergis/coordtransform",
         "kwuking/TimeMixer"
       ]
+    },
+    {
+      "date": "2026-09-26",
+      "repos": [
+        "gohugoio/hugo",
+        "koalaman/shellcheck",
+        "typeorm/typeorm",
+        "sindresorhus/ky",
+        "Th3Wall/Fakeflix",
+        "moneyphp/money",
+        "crystian/ComfyUI-Crystools",
+        "demopark/electron-api-demos-Zh_CN",
+        "quodlibet/mutagen",
+        "vue-leaflet/Vue2Leaflet"
+      ]
     }
   ]
 }
