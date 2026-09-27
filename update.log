@@ -86,3 +86,12 @@
 [2026-09-26 11:53:34] 抽选 2026-09-26：gohugoio/hugo, koalaman/shellcheck, typeorm/typeorm, sindresorhus/ky, Th3Wall/Fakeflix, moneyphp/money, crystian/ComfyUI-Crystools, demopark/electron-api-demos-Zh_CN, quodlibet/mutagen, vue-leaflet/Vue2Leaflet
 [2026-09-26 11:53:34] 已保存 data.json（第 22 期，累计 220 条）
 [2026-09-26 11:53:34] index.html 已重新生成
+[2026-09-27 12:03:19] 开始刷新候选池...
+[2026-09-27 12:04:00] 区间 stars:>20000：候选池累计 4281 个
+[2026-09-27 12:04:42] 区间 stars:5000..20000：候选池累计 4292 个
+[2026-09-27 12:05:25] 区间 stars:2000..5000：候选池累计 4323 个
+[2026-09-27 12:06:07] 区间 stars:800..2000：候选池累计 4382 个
+[2026-09-27 12:06:08] 候选池刷新完成：4382 个唯一项目
+[2026-09-27 12:06:08] 抽选 2026-09-27：yt-dlp/yt-dlp, FFmpeg/FFmpeg, oobabooga/textgen, apachecn/ailearning, apache/dubbo, JohnSundell/Publish, simplewebrtc/SimpleWebRTC, chobits/ngx_http_proxy_connect_module, rosemarycox5334-debug/PA_Agent, OffcierCia/On-Chain-Investigations-Tools-List
+[2026-09-27 12:06:08] 已保存 data.json（第 23 期，累计 230 条）
+[2026-09-27 12:06:08] index.html 已重新生成

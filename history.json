@@ -329,6 +329,21 @@
         "quodlibet/mutagen",
         "vue-leaflet/Vue2Leaflet"
       ]
+    },
+    {
+      "date": "2026-09-27",
+      "repos": [
+        "yt-dlp/yt-dlp",
+        "FFmpeg/FFmpeg",
+        "oobabooga/textgen",
+        "apachecn/ailearning",
+        "apache/dubbo",
+        "JohnSundell/Publish",
+        "simplewebrtc/SimpleWebRTC",
+        "chobits/ngx_http_proxy_connect_module",
+        "rosemarycox5334-debug/PA_Agent",
+        "OffcierCia/On-Chain-Investigations-Tools-List"
+      ]
     }
   ]
 }
