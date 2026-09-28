@@ -344,6 +344,21 @@
         "rosemarycox5334-debug/PA_Agent",
         "OffcierCia/On-Chain-Investigations-Tools-List"
       ]
+    },
+    {
+      "date": "2026-09-28",
+      "repos": [
+        "virattt/ai-hedge-fund",
+        "sxyazi/yazi",
+        "alebcay/awesome-shell",
+        "RPCS3/rpcs3",
+        "521xueweihan/git-tips",
+        "campsite/campsite",
+        "microsoft/WindowsAppSDK",
+        "EZLippi/practical-programming-books",
+        "DanielXMoore/Civet",
+        "LCAV/pyroomacoustics"
+      ]
     }
   ]
 }
