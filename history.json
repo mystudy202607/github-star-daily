@@ -374,6 +374,21 @@
         "i2ii/i",
         "mezzoblue/csszengarden.com"
       ]
+    },
+    {
+      "date": "2026-09-30",
+      "repos": [
+        "yangshun/front-end-interview-handbook",
+        "deepspeedai/DeepSpeed",
+        "golang-migrate/migrate",
+        "aframevr/aframe",
+        "catfan/Medoo",
+        "tidwall/buntdb",
+        "bsnes-emu/bsnes",
+        "mercari/engineer-vocabulary-list",
+        "glennreyes/graphpack",
+        "krlvm/PowerTunnel-Android"
+      ]
     }
   ]
 }
