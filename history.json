@@ -389,6 +389,21 @@
         "glennreyes/graphpack",
         "krlvm/PowerTunnel-Android"
       ]
+    },
+    {
+      "date": "2026-10-01",
+      "repos": [
+        "slidevjs/slidev",
+        "lfnovo/open-notebook",
+        "jax-ml/jax",
+        "eriklindernoren/PyTorch-GAN",
+        "lowlighter/metrics",
+        "Ocramius/ProxyManager",
+        "weiaicunzai/pytorch-cifar100",
+        "ThePrimeagen/99",
+        "numworks/epsilon",
+        "Vchitect/Latte"
+      ]
     }
   ]
 }
