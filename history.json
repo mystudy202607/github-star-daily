@@ -419,6 +419,21 @@
         "dustinspecker/awesome-eslint",
         "thomasp85/gganimate"
       ]
+    },
+    {
+      "date": "2026-10-03",
+      "repos": [
+        "datawhalechina/hello-agents",
+        "shiyu-coder/Kronos",
+        "openai/CLIP",
+        "gulpjs/gulp",
+        "williamfiset/algorithms",
+        "projectdiscovery/katana",
+        "adobe/react-spectrum",
+        "ant-design/x",
+        "WassimTenachi/PhySO",
+        "marijnz/unity-toolbar-extender"
+      ]
     }
   ]
 }
