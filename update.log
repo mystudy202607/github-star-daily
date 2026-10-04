@@ -113,3 +113,12 @@
 [2026-10-03 12:08:19] 抽选 2026-10-03：datawhalechina/hello-agents, shiyu-coder/Kronos, openai/CLIP, gulpjs/gulp, williamfiset/algorithms, projectdiscovery/katana, adobe/react-spectrum, ant-design/x, WassimTenachi/PhySO, marijnz/unity-toolbar-extender
 [2026-10-03 12:08:19] 已保存 data.json（第 29 期，累计 290 条）
 [2026-10-03 12:08:19] index.html 已重新生成
+[2026-10-04 12:40:11] 开始刷新候选池...
+[2026-10-04 12:40:56] 区间 stars:>20000：候选池累计 4387 个
+[2026-10-04 12:41:42] 区间 stars:5000..20000：候选池累计 4399 个
+[2026-10-04 12:42:29] 区间 stars:2000..5000：候选池累计 4425 个
+[2026-10-04 12:43:18] 区间 stars:800..2000：候选池累计 4482 个
+[2026-10-04 12:43:18] 候选池刷新完成：4482 个唯一项目
+[2026-10-04 12:43:18] 抽选 2026-10-04：hakimel/reveal.js, apache/spark, erusev/parsedown, tholman/github-corners, tiajinsha/JKVideo, gd3kr/BlenderGPT, psviderski/unregistry, Kaliiiiiiiiii-Vinyzu/patchright, acassen/keepalived, ytzfhqs/AAAMLP-CN
+[2026-10-04 12:43:18] 已保存 data.json（第 30 期，累计 300 条）
+[2026-10-04 12:43:18] index.html 已重新生成
