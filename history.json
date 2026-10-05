@@ -449,6 +449,21 @@
         "acassen/keepalived",
         "ytzfhqs/AAAMLP-CN"
       ]
+    },
+    {
+      "date": "2026-10-05",
+      "repos": [
+        "pot-app/pot-desktop",
+        "thibmaek/awesome-raspberry-pi",
+        "jaywcjlove/reference",
+        "yangjian102621/geekai",
+        "willianjusten/awesome-svg",
+        "whomwah/rqrcode",
+        "ahmedtariq01/Cloud-DevOps-Learning-Resources",
+        "vim-ruby/vim-ruby",
+        "microsoft/AdaptiveCards",
+        "PiotrMachowski/lovelace-xiaomi-vacuum-map-card"
+      ]
     }
   ]
 }
