@@ -464,6 +464,21 @@
         "microsoft/AdaptiveCards",
         "PiotrMachowski/lovelace-xiaomi-vacuum-map-card"
       ]
+    },
+    {
+      "date": "2026-10-06",
+      "repos": [
+        "compiler-explorer/compiler-explorer",
+        "moonlight-stream/moonlight-qt",
+        "APIJSON/APIJSON",
+        "nathom/streamrip",
+        "runhey/OnmyojiAutoScript",
+        "zju3dv/EasyMocap",
+        "Naereen/badges",
+        "KieronQuinn/PersistentSearch",
+        "davda54/sam",
+        "nook-browser/Nook"
+      ]
     }
   ]
 }
