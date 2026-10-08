@@ -494,6 +494,21 @@
         "didriksg/Crisp",
         "rueckstiess/mtools"
       ]
+    },
+    {
+      "date": "2026-10-08",
+      "repos": [
+        "dair-ai/Prompt-Engineering-Guide",
+        "anthropics/claude-cookbooks",
+        "dotnet/aspnetcore",
+        "1Panel-dev/1Panel",
+        "nicolargo/glances",
+        "browsh-org/browsh",
+        "Sonarr/Sonarr",
+        "PyO3/pyo3",
+        "crowdsecurity/crowdsec",
+        "JohnTroony/php-webshells"
+      ]
     }
   ]
 }
