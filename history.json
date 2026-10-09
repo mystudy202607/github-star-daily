@@ -509,6 +509,21 @@
         "crowdsecurity/crowdsec",
         "JohnTroony/php-webshells"
       ]
+    },
+    {
+      "date": "2026-10-09",
+      "repos": [
+        "EbookFoundation/free-programming-books",
+        "PanJiaChen/vue-element-admin",
+        "pnpm/pnpm",
+        "remix-run/remix",
+        "greensock/gsap-skills",
+        "frappe/books",
+        "digitalinnovationone/potencializando-estudos-carreira-com-ia",
+        "evilmartians/oklch-picker",
+        "coralproject/talk",
+        "f2e-awesome/knowledge"
+      ]
     }
   ]
 }
