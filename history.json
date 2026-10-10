@@ -524,6 +524,21 @@
         "coralproject/talk",
         "f2e-awesome/knowledge"
       ]
+    },
+    {
+      "date": "2026-10-10",
+      "repos": [
+        "Eugeny/tabby",
+        "ayghri/i-have-adhd",
+        "lukas-blecher/LaTeX-OCR",
+        "kubernetes-sigs/kind",
+        "below/HelloSilicon",
+        "asterinas/asterinas",
+        "biaochenxuying/blog",
+        "sonnylazuardi/chat-ai-desktop",
+        "cnlimiter/codex-manager",
+        "flickowoa/dotfiles"
+      ]
     }
   ]
 }
