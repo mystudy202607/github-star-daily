@@ -539,6 +539,21 @@
         "cnlimiter/codex-manager",
         "flickowoa/dotfiles"
       ]
+    },
+    {
+      "date": "2026-10-11",
+      "repos": [
+        "docling-project/docling",
+        "sandboxie-plus/Sandboxie",
+        "Anionex/banana-slides",
+        "harlan-zw/unlighthouse",
+        "ant-design/pro-components",
+        "schollz/find3",
+        "liquidprompt/liquidprompt",
+        "nagadomi/lbpcascade_animeface",
+        "ebitengine/oto",
+        "apache/servicecomb-java-chassis"
+      ]
     }
   ]
 }
