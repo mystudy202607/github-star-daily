@@ -554,6 +554,21 @@
         "ebitengine/oto",
         "apache/servicecomb-java-chassis"
       ]
+    },
+    {
+      "date": "2026-10-12",
+      "repos": [
+        "PaddlePaddle/PaddleOCR",
+        "TryGhost/Ghost",
+        "dockur/windows",
+        "LizardByte/Sunshine",
+        "lm-sys/FastChat",
+        "refactoringhq/tolaria",
+        "AAChartModel/AAChartKit",
+        "StephenGrider/AlgoCasts",
+        "black-ant/Ant-Browser",
+        "gitless-vcs/gitless"
+      ]
     }
   ]
 }

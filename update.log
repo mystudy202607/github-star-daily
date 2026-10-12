@@ -143,3 +143,12 @@
 [2026-10-11 12:26:15] 抽选 2026-10-11：docling-project/docling, sandboxie-plus/Sandboxie, Anionex/banana-slides, harlan-zw/unlighthouse, ant-design/pro-components, schollz/find3, liquidprompt/liquidprompt, nagadomi/lbpcascade_animeface, ebitengine/oto, apache/servicecomb-java-chassis
 [2026-10-11 12:26:15] 已保存 data.json（第 37 期，累计 370 条）
 [2026-10-11 12:26:15] index.html 已重新生成
+[2026-10-12 12:42:07] 开始刷新候选池...
+[2026-10-12 12:42:49] 区间 stars:>20000：候选池累计 4488 个
+[2026-10-12 12:43:34] 区间 stars:5000..20000：候选池累计 4499 个
+[2026-10-12 12:44:21] 区间 stars:2000..5000：候选池累计 4532 个
+[2026-10-12 12:45:06] 区间 stars:800..2000：候选池累计 4594 个
+[2026-10-12 12:45:06] 候选池刷新完成：4594 个唯一项目
+[2026-10-12 12:45:06] 抽选 2026-10-12：PaddlePaddle/PaddleOCR, TryGhost/Ghost, dockur/windows, LizardByte/Sunshine, lm-sys/FastChat, refactoringhq/tolaria, AAChartModel/AAChartKit, StephenGrider/AlgoCasts, black-ant/Ant-Browser, gitless-vcs/gitless
+[2026-10-12 12:45:06] 已保存 data.json（第 38 期，累计 380 条）
+[2026-10-12 12:45:06] index.html 已重新生成
