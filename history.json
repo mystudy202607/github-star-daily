@@ -584,6 +584,21 @@
         "json-editor/json-editor",
         "andrewrk/groovebasin"
       ]
+    },
+    {
+      "date": "2026-10-14",
+      "repos": [
+        "google/zx",
+        "gnmyt/Nexterm",
+        "jagregory/abrash-black-book",
+        "cruip/open-react-template",
+        "MemeCalculate/moyin-creator",
+        "javascript-tutorial/ko.javascript.info",
+        "eseedo/iOSCourse",
+        "microsoft/intelligent-terminal",
+        "Jakeschincariol/replica-skill",
+        "FPGAwars/icestudio"
+      ]
     }
   ]
 }
