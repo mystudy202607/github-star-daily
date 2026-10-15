@@ -599,6 +599,21 @@
         "Jakeschincariol/replica-skill",
         "FPGAwars/icestudio"
       ]
+    },
+    {
+      "date": "2026-10-15",
+      "repos": [
+        "songquanpeng/one-api",
+        "CopyTranslator/CopyTranslator",
+        "hackiftekhar/IQKeyboardManager",
+        "jgthms/css-reference",
+        "l0o0/translators_CN",
+        "openai/simple-evals",
+        "promptslab/Promptify",
+        "Shmoopi/iOS-System-Services",
+        "novoda/android-demos",
+        "storeon/storeon"
+      ]
     }
   ]
 }
