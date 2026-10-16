@@ -614,6 +614,21 @@
         "novoda/android-demos",
         "storeon/storeon"
       ]
+    },
+    {
+      "date": "2026-10-16",
+      "repos": [
+        "PowerShell/PowerShell",
+        "gogs/gogs",
+        "genlayerlabs/genlayer-project-boilerplate",
+        "bagisto/opensource-ecommerce-mobile-app",
+        "lobsters/lobsters",
+        "brunosimon/folio-2019",
+        "FireRedTeam/FireRedASR",
+        "Alisa0808/vox-director",
+        "linkedin/dexmaker",
+        "authts/oidc-client-ts"
+      ]
     }
   ]
 }
