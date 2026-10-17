@@ -629,6 +629,21 @@
         "linkedin/dexmaker",
         "authts/oidc-client-ts"
       ]
+    },
+    {
+      "date": "2026-10-17",
+      "repos": [
+        "bytedance/deer-flow",
+        "serverless/serverless",
+        "nyblnet/bento",
+        "relatedcode/Messenger",
+        "vinvcn/mattpocock-skills-zh-CN",
+        "manycore-research/SpatialLM",
+        "coolnameismy/BabyBluetooth",
+        "deepseek-ai/Engram",
+        "x-cmd/x-cmd",
+        "hoytech/vmtouch"
+      ]
     }
   ]
 }
