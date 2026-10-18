@@ -644,6 +644,21 @@
         "x-cmd/x-cmd",
         "hoytech/vmtouch"
       ]
+    },
+    {
+      "date": "2026-10-18",
+      "repos": [
+        "zaproxy/zaproxy",
+        "stalwartlabs/stalwart",
+        "reactive-streams/reactive-streams-jvm",
+        "streamlabs/desktop",
+        "Bashfuscator/Bashfuscator",
+        "LinkedInLearning/javascript-essential-training-2832077",
+        "GcsSloop/rclayout",
+        "showlab/computer_use_ootb",
+        "helallao/perplexity-ai",
+        "youngguncho/awesome-slam-datasets"
+      ]
     }
   ]
 }
