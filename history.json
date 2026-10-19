@@ -659,6 +659,21 @@
         "helallao/perplexity-ai",
         "youngguncho/awesome-slam-datasets"
       ]
+    },
+    {
+      "date": "2026-10-19",
+      "repos": [
+        "nestjs/nest",
+        "Avik-Jain/100-Days-Of-ML-Code",
+        "anthropics/financial-services",
+        "lin-xin/vue-manage-system",
+        "spotify/luigi",
+        "davidarroyo1234/InstagramUnfollowers",
+        "Security-Onion-Solutions/securityonion",
+        "AstraZeneca/awesome-explainable-graph-reasoning",
+        "ShieldMnt/invisible-watermark",
+        "LlmKira/Openaibot"
+      ]
     }
   ]
 }
