@@ -173,3 +173,12 @@
 [2026-10-19 11:34:46] 抽选 2026-10-19：nestjs/nest, Avik-Jain/100-Days-Of-ML-Code, anthropics/financial-services, lin-xin/vue-manage-system, spotify/luigi, davidarroyo1234/InstagramUnfollowers, Security-Onion-Solutions/securityonion, AstraZeneca/awesome-explainable-graph-reasoning, ShieldMnt/invisible-watermark, LlmKira/Openaibot
 [2026-10-19 11:34:46] 已保存 data.json（第 45 期，累计 450 条）
 [2026-10-19 11:34:46] index.html 已重新生成
+[2026-10-20 11:44:58] 开始刷新候选池...
+[2026-10-20 11:45:44] 区间 stars:>20000：候选池累计 4603 个
+[2026-10-20 11:46:30] 区间 stars:5000..20000：候选池累计 4621 个
+[2026-10-20 11:47:17] 区间 stars:2000..5000：候选池累计 4661 个
+[2026-10-20 11:48:05] 区间 stars:800..2000：候选池累计 4740 个
+[2026-10-20 11:48:05] 候选池刷新完成：4740 个唯一项目
+[2026-10-20 11:48:05] 抽选 2026-10-20：mui/material-ui, FiloSottile/mkcert, amruthpillai/reactive-resume, react/yoga, official-stockfish/Stockfish, krakenjs/kraken-js, ChefKissInc/NootedRed, themeselection/materio-mui-nextjs-admin-template-free, coursera-dl/edx-dl, Blackymas/NSPanel_HA_Blueprint
+[2026-10-20 11:48:05] 已保存 data.json（第 46 期，累计 460 条）
+[2026-10-20 11:48:05] index.html 已重新生成
