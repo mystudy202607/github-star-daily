@@ -704,6 +704,21 @@
         "BurntSushi/rust-csv",
         "SathyaBhat/spotify-dl"
       ]
+    },
+    {
+      "date": "2026-10-22",
+      "repos": [
+        "jesseduffield/lazygit",
+        "neo4j/neo4j",
+        "NVIDIA/OpenShell",
+        "Chlumsky/msdfgen",
+        "Maxteabag/sqlit",
+        "breferrari/obsidian-mind",
+        "mvanhorn/cli-printing-press",
+        "wangshusen/DRL",
+        "pjy612/SteamManifestCache",
+        "shzlw/poli"
+      ]
     }
   ]
 }
