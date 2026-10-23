@@ -719,6 +719,21 @@
         "pjy612/SteamManifestCache",
         "shzlw/poli"
       ]
+    },
+    {
+      "date": "2026-10-23",
+      "repos": [
+        "aseprite/aseprite",
+        "confident-ai/deepeval",
+        "sqlc-dev/sqlc",
+        "Infrasys-AI/AISystem",
+        "triggerdotdev/trigger.dev",
+        "pyecharts/pyecharts",
+        "slack-go/slack",
+        "Authenticator-Extension/Authenticator",
+        "Azure/Microsoft-Defender-for-Cloud",
+        "liangxiaojuan/vue-todos"
+      ]
     }
   ]
 }
