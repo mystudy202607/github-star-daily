@@ -734,6 +734,21 @@
         "Azure/Microsoft-Defender-for-Cloud",
         "liangxiaojuan/vue-todos"
       ]
+    },
+    {
+      "date": "2026-10-24",
+      "repos": [
+        "Z4nzu/hackingtool",
+        "obsproject/obs-studio",
+        "lightpanda-io/browser",
+        "alibaba/nacos",
+        "zeromicro/go-zero",
+        "tobiasahlin/SpinKit",
+        "lichess-org/lila",
+        "robbietilton/Compositor",
+        "keycastr/keycastr",
+        "uswds/public-sans"
+      ]
     }
   ]
 }
