@@ -749,6 +749,21 @@
         "keycastr/keycastr",
         "uswds/public-sans"
       ]
+    },
+    {
+      "date": "2026-10-25",
+      "repos": [
+        "marktext/marktext",
+        "vercel-labs/skills",
+        "mrdbourke/pytorch-deep-learning",
+        "shower/shower",
+        "numToStr/Comment.nvim",
+        "willfarrell/docker-autoheal",
+        "hubblo-org/scaphandre",
+        "angusdevgo/IDM_Pro_Tool",
+        "Maoni0/mem-doc",
+        "CoderGamester/mcp-unity"
+      ]
     }
   ]
 }
