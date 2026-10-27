@@ -200,3 +200,12 @@
 [2026-10-26 11:34:35] 抽选 2026-10-26：vitejs/vite, documenso/documenso, eKoopmans/html2pdf.js, amantus-ai/vibetunnel, ActivityLauncher/ActivityLauncher, Pointcept/PointTransformerV3, philipperemy/tensorflow-1.4-billion-password-analysis, alrojo/tensorflow-tutorial, amzxyz/RIME-LMDG, jeremycw/httpserver.h
 [2026-10-26 11:34:35] 已保存 data.json（第 52 期，累计 520 条）
 [2026-10-26 11:34:35] index.html 已重新生成
+[2026-10-27 11:59:35] 开始刷新候选池...
+[2026-10-27 12:00:23] 区间 stars:>20000：候选池累计 4747 个
+[2026-10-27 12:01:15] 区间 stars:5000..20000：候选池累计 4759 个
+[2026-10-27 12:02:07] 区间 stars:2000..5000：候选池累计 4799 个
+[2026-10-27 12:02:59] 区间 stars:800..2000：候选池累计 4860 个
+[2026-10-27 12:02:59] 候选池刷新完成：4860 个唯一项目
+[2026-10-27 12:02:59] 抽选 2026-10-27：msitarzewski/agency-agents, sgl-project/sglang, overleaf/overleaf, benfred/py-spy, trustedsec/social-engineer-toolkit, apexcharts/apexcharts.js, uptrace/bun, Pixelkit/PixelKit-Bootstrap-UI-Kits, nisrulz/android-tips-tricks, docker-library/wordpress
+[2026-10-27 12:02:59] 已保存 data.json（第 53 期，累计 530 条）
+[2026-10-27 12:02:59] index.html 已重新生成

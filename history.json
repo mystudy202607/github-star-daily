@@ -779,6 +779,21 @@
         "amzxyz/RIME-LMDG",
         "jeremycw/httpserver.h"
       ]
+    },
+    {
+      "date": "2026-10-27",
+      "repos": [
+        "msitarzewski/agency-agents",
+        "sgl-project/sglang",
+        "overleaf/overleaf",
+        "benfred/py-spy",
+        "trustedsec/social-engineer-toolkit",
+        "apexcharts/apexcharts.js",
+        "uptrace/bun",
+        "Pixelkit/PixelKit-Bootstrap-UI-Kits",
+        "nisrulz/android-tips-tricks",
+        "docker-library/wordpress"
+      ]
     }
   ]
 }
