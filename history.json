@@ -794,6 +794,21 @@
         "nisrulz/android-tips-tricks",
         "docker-library/wordpress"
       ]
+    },
+    {
+      "date": "2026-10-28",
+      "repos": [
+        "sherlock-project/sherlock",
+        "jgraph/drawio-desktop",
+        "faif/python-patterns",
+        "emcie-co/parlant",
+        "yujiangshui/A-Programmers-Guide-to-English",
+        "CoplayDev/unity-mcp",
+        "OpenMinis/OpenMinis",
+        "grpc/grpc-node",
+        "pravega/pravega",
+        "Ragnt/AngryOxide"
+      ]
     }
   ]
 }
