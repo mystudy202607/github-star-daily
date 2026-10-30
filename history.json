@@ -824,6 +824,21 @@
         "FalsePhilosopher/badusb",
         "linkedin/shiv"
       ]
+    },
+    {
+      "date": "2026-10-30",
+      "repos": [
+        "arc53/DocsGPT",
+        "sumatrapdfreader/sumatrapdf",
+        "corsairdev/corsair",
+        "frontendbr/vagas",
+        "palxiao/poster-design",
+        "luksa/kubernetes-in-action",
+        "Ranginang67/DarkFly-Tool",
+        "lich0821/BotFlow",
+        "ClosureTree/closure_tree",
+        "stevearc/overseer.nvim"
+      ]
     }
   ]
 }
