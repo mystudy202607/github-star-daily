@@ -839,6 +839,21 @@
         "ClosureTree/closure_tree",
         "stevearc/overseer.nvim"
       ]
+    },
+    {
+      "date": "2026-10-31",
+      "repos": [
+        "multica-ai/andrej-karpathy-skills",
+        "commaai/openpilot",
+        "expo/expo",
+        "xi-editor/xi-editor",
+        "ag-ui-protocol/ag-ui",
+        "Ryze-AI-Adgent/open-seo-mcp-skills",
+        "dmno-dev/varlock",
+        "a327ex/SNKRX",
+        "D35m0nd142/LFISuite",
+        "archlinuxcn/repo"
+      ]
     }
   ]
 }
