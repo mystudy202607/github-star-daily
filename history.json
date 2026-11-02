@@ -869,6 +869,21 @@
         "rui314/9cc",
         "django-notifications/django-notifications"
       ]
+    },
+    {
+      "date": "2026-11-02",
+      "repos": [
+        "iluwatar/java-design-patterns",
+        "binarywang/WxJava",
+        "baidu/amis",
+        "typescript-eslint/typescript-eslint",
+        "faker-js/faker",
+        "cloudfavorites/favorites-web",
+        "zongzibinbin/MallChat",
+        "gokceneraslan/awesome-deepbio",
+        "bohyy/academic-ai-prompt",
+        "lineofflight/frankfurter"
+      ]
     }
   ]
 }
