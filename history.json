@@ -884,6 +884,21 @@
         "bohyy/academic-ai-prompt",
         "lineofflight/frankfurter"
       ]
+    },
+    {
+      "date": "2026-11-03",
+      "repos": [
+        "soimort/you-get",
+        "QuantumNous/new-api",
+        "calcom/cal.diy",
+        "PatrickJS/awesome-cursorrules",
+        "hummingbot/hummingbot",
+        "rocksdanister/lively",
+        "paperswithbacktest/awesome-systematic-trading",
+        "basecamp/once-campfire",
+        "zlt2000/microservices-platform",
+        "akiver/cs-demo-manager"
+      ]
     }
   ]
 }

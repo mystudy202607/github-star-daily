@@ -227,3 +227,12 @@
 [2026-11-02 12:47:20] 抽选 2026-11-02：iluwatar/java-design-patterns, binarywang/WxJava, baidu/amis, typescript-eslint/typescript-eslint, faker-js/faker, cloudfavorites/favorites-web, zongzibinbin/MallChat, gokceneraslan/awesome-deepbio, bohyy/academic-ai-prompt, lineofflight/frankfurter
 [2026-11-02 12:47:20] 已保存 data.json（第 59 期，累计 590 条）
 [2026-11-02 12:47:20] index.html 已重新生成
+[2026-11-03 13:38:16] 开始刷新候选池...
+[2026-11-03 13:39:03] 区间 stars:>20000：候选池累计 4867 个
+[2026-11-03 13:39:50] 区间 stars:5000..20000：候选池累计 4883 个
+[2026-11-03 13:40:39] 区间 stars:2000..5000：候选池累计 4933 个
+[2026-11-03 13:41:31] 区间 stars:800..2000：候选池累计 5000 个
+[2026-11-03 13:41:31] 候选池刷新完成：5000 个唯一项目
+[2026-11-03 13:41:31] 抽选 2026-11-03：soimort/you-get, QuantumNous/new-api, calcom/cal.diy, PatrickJS/awesome-cursorrules, hummingbot/hummingbot, rocksdanister/lively, paperswithbacktest/awesome-systematic-trading, basecamp/once-campfire, zlt2000/microservices-platform, akiver/cs-demo-manager
+[2026-11-03 13:41:31] 已保存 data.json（第 60 期，累计 600 条）
+[2026-11-03 13:41:31] index.html 已重新生成
