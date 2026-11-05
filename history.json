@@ -914,6 +914,21 @@
         "keendreams/keen",
         "opencmit/pangee-cluster"
       ]
+    },
+    {
+      "date": "2026-11-05",
+      "repos": [
+        "nukeop/nuclear",
+        "Usagi-org/ai-goofish-monitor",
+        "treeverse/dvc",
+        "k2-fsa/sherpa-onnx",
+        "Martian-Engineering/lossless-claw",
+        "vercel-labs/scriptc",
+        "SteveLTN/https-portal",
+        "enzo1982/freac",
+        "rdragos/awesome-mpc",
+        "trojanpanel/install-script"
+      ]
     }
   ]
 }
