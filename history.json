@@ -929,6 +929,21 @@
         "rdragos/awesome-mpc",
         "trojanpanel/install-script"
       ]
+    },
+    {
+      "date": "2026-11-06",
+      "repos": [
+        "codecrafters-io/build-your-own-x",
+        "allenai/olmocr",
+        "shadowsocks/shadowsocks-c",
+        "1rgs/jsonformer",
+        "Sjj1024/PakePlus-Win7",
+        "antonputra/tutorials",
+        "hzy46/Deep-Learning-21-Examples",
+        "Unity-Technologies/com.unity.multiplayer.samples.coop",
+        "netguru/ResponseDetective",
+        "mintlify/starter"
+      ]
     }
   ]
 }
