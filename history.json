@@ -944,6 +944,21 @@
         "netguru/ResponseDetective",
         "mintlify/starter"
       ]
+    },
+    {
+      "date": "2026-11-07",
+      "repos": [
+        "SagerNet/sing-box",
+        "tiann/hapi",
+        "binance/binance-spot-api-docs",
+        "jarro2783/cxxopts",
+        "IBM/mcp-context-forge",
+        "AutumnWhj/ChatGPT-wechat-bot",
+        "jenkins-x/jx",
+        "AlexNisnevich/untrusted",
+        "Paca-AI/paca",
+        "wy-luke/All-Chinese-Character-Set"
+      ]
     }
   ]
 }
