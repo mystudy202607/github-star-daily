@@ -959,6 +959,21 @@
         "Paca-AI/paca",
         "wy-luke/All-Chinese-Character-Set"
       ]
+    },
+    {
+      "date": "2026-11-08",
+      "repos": [
+        "base/node",
+        "CorentinJ/Real-Time-Voice-Cloning",
+        "FuelLabs/fuel-core",
+        "LMAX-Exchange/disruptor",
+        "FavioVazquez/ds-cheatsheets",
+        "mikefarah/yq",
+        "mockito/mockito",
+        "yanshengjia/ml-road",
+        "DeSireFire/animeTrackerList",
+        "LunarVim/Launch.nvim"
+      ]
     }
   ]
 }
