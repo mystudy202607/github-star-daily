@@ -974,6 +974,21 @@
         "DeSireFire/animeTrackerList",
         "LunarVim/Launch.nvim"
       ]
+    },
+    {
+      "date": "2026-11-09",
+      "repos": [
+        "nvm-sh/nvm",
+        "docker/awesome-compose",
+        "wangeditor-team/wangEditor",
+        "Droid-Deck/DroidDeck",
+        "joewalnes/websocketd",
+        "esp8266/Arduino",
+        "py-why/EconML",
+        "gustavoguanabara/gustavoguanabara.github.io",
+        "sereneblue/awesome-oss",
+        "PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading"
+      ]
     }
   ]
 }
