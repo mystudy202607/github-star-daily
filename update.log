@@ -254,3 +254,12 @@
 [2026-11-09 12:58:01] 抽选 2026-11-09：nvm-sh/nvm, docker/awesome-compose, wangeditor-team/wangEditor, Droid-Deck/DroidDeck, joewalnes/websocketd, esp8266/Arduino, py-why/EconML, gustavoguanabara/gustavoguanabara.github.io, sereneblue/awesome-oss, PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading
 [2026-11-09 12:58:01] 已保存 data.json（第 66 期，累计 660 条）
 [2026-11-09 12:58:01] index.html 已重新生成
+[2026-11-10 14:14:14] 开始刷新候选池...
+[2026-11-10 14:15:01] 区间 stars:>20000：候选池累计 5003 个
+[2026-11-10 14:15:51] 区间 stars:5000..20000：候选池累计 5017 个
+[2026-11-10 14:16:41] 区间 stars:2000..5000：候选池累计 5055 个
+[2026-11-10 14:17:33] 区间 stars:800..2000：候选池累计 5112 个
+[2026-11-10 14:17:33] 候选池刷新完成：5112 个唯一项目
+[2026-11-10 14:17:33] 抽选 2026-11-10：openai/codex, airbnb/lottie-android, sczhou/CodeFormer, go-sql-driver/mysql, jorgebastida/awslogs, Blealtan/efficient-kan, github/government.github.com, KyryloKuzyk/PrimeTween, deer-flow/llm-space, microsoft/DiskANN
+[2026-11-10 14:17:34] 已保存 data.json（第 67 期，累计 670 条）
+[2026-11-10 14:17:34] index.html 已重新生成

@@ -989,6 +989,21 @@
         "sereneblue/awesome-oss",
         "PacktPublishing/Hands-On-Machine-Learning-for-Algorithmic-Trading"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "repos": [
+        "openai/codex",
+        "airbnb/lottie-android",
+        "sczhou/CodeFormer",
+        "go-sql-driver/mysql",
+        "jorgebastida/awslogs",
+        "Blealtan/efficient-kan",
+        "github/government.github.com",
+        "KyryloKuzyk/PrimeTween",
+        "deer-flow/llm-space",
+        "microsoft/DiskANN"
+      ]
     }
   ]
 }
