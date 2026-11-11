@@ -1004,6 +1004,21 @@
         "deer-flow/llm-space",
         "microsoft/DiskANN"
       ]
+    },
+    {
+      "date": "2026-11-11",
+      "repos": [
+        "edent/SuperTinyIcons",
+        "buxuku/SmartSub",
+        "mouredev/python-web",
+        "rime/librime",
+        "anmolkapil/plexo",
+        "oop7/YTSage",
+        "ssili126/tv",
+        "sdlpal/sdlpal",
+        "onblog/BlogHelper",
+        "revolunet/PythonBooks"
+      ]
     }
   ]
 }
