@@ -1019,6 +1019,21 @@
         "onblog/BlogHelper",
         "revolunet/PythonBooks"
       ]
+    },
+    {
+      "date": "2026-11-12",
+      "repos": [
+        "netdata/netdata",
+        "iina/iina",
+        "mxrch/GHunt",
+        "danielmiessler/LifeOS",
+        "hicccc77/WeFlow",
+        "fastai/course-v3",
+        "stleary/JSON-java",
+        "react-syntax-highlighter/react-syntax-highlighter",
+        "szabgab/awesome-for-non-programmers",
+        "sagikazarmark/modern-go-application"
+      ]
     }
   ]
 }
