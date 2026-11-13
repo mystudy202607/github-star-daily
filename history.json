@@ -1034,6 +1034,21 @@
         "szabgab/awesome-for-non-programmers",
         "sagikazarmark/modern-go-application"
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "repos": [
+        "Blankj/AndroidUtilCode",
+        "amark/gun",
+        "caronc/apprise",
+        "bharathgs/Awesome-pytorch-list",
+        "kaldi-asr/kaldi",
+        "microsoft/playwright-python",
+        "larashero3-dotcom/lieflat-less-ai-tone",
+        "KelvinJin/AnimatedCollectionViewLayout",
+        "visionmedia/move.js",
+        "mattdibi/redox-keyboard"
+      ]
     }
   ]
 }
