@@ -1064,6 +1064,21 @@
         "edeliver/edeliver",
         "QwenLM/Qwen-Audio"
       ]
+    },
+    {
+      "date": "2026-11-15",
+      "repos": [
+        "catppuccin/catppuccin",
+        "carloscuesta/gitmoji",
+        "Jackett/Jackett",
+        "alshedivat/al-folio",
+        "unadlib/mutative",
+        "yuhonas/free-exercise-db",
+        "monoscope-tech/monoscope",
+        "anse-app/anse",
+        "guofei9987/text_blind_watermark",
+        "redux-loop/redux-loop"
+      ]
     }
   ]
 }
