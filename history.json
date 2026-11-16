@@ -1079,6 +1079,21 @@
         "guofei9987/text_blind_watermark",
         "redux-loop/redux-loop"
       ]
+    },
+    {
+      "date": "2026-11-16",
+      "repos": [
+        "immich-app/immich",
+        "OpenCut-app/OpenCut",
+        "necolas/normalize.css",
+        "Kong/insomnia",
+        "apitable/apitable",
+        "thunderbird/thunderbolt",
+        "Cysharp/MemoryPack",
+        "AllenDowney/ThinkDSP",
+        "xXJSONDeruloXx/decky-lsfg-vk",
+        "hilmanski/freeStuffDev"
+      ]
     }
   ]
 }
