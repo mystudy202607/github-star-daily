@@ -281,3 +281,12 @@
 [2026-11-16 13:07:50] 抽选 2026-11-16：immich-app/immich, OpenCut-app/OpenCut, necolas/normalize.css, Kong/insomnia, apitable/apitable, thunderbird/thunderbolt, Cysharp/MemoryPack, AllenDowney/ThinkDSP, xXJSONDeruloXx/decky-lsfg-vk, hilmanski/freeStuffDev
 [2026-11-16 13:07:50] 已保存 data.json（第 73 期，累计 730 条）
 [2026-11-16 13:07:50] index.html 已重新生成
+[2026-11-17 14:53:53] 开始刷新候选池...
+[2026-11-17 14:54:40] 区间 stars:>20000：候选池累计 5120 个
+[2026-11-17 14:55:30] 区间 stars:5000..20000：候选池累计 5135 个
+[2026-11-17 14:56:19] 区间 stars:2000..5000：候选池累计 5169 个
+[2026-11-17 14:57:10] 区间 stars:800..2000：候选池累计 5229 个
+[2026-11-17 14:57:10] 候选池刷新完成：5229 个唯一项目
+[2026-11-17 14:57:10] 抽选 2026-11-17：jwasham/coding-interview-university, tensorflow/tensorflow, PKUanonym/REKCARC-TSC-UHT, UFund-Me/Qbot, boyu-ai/Hands-on-RL, andkulikov/Transitions-Everywhere, johnno1962/InjectionIII, shadcnstudio/shadcn-studio, General-Legal/legal-templates, ponchio/untrunc
+[2026-11-17 14:57:10] 已保存 data.json（第 74 期，累计 740 条）
+[2026-11-17 14:57:10] index.html 已重新生成

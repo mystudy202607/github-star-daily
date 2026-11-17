@@ -1094,6 +1094,21 @@
         "xXJSONDeruloXx/decky-lsfg-vk",
         "hilmanski/freeStuffDev"
       ]
+    },
+    {
+      "date": "2026-11-17",
+      "repos": [
+        "jwasham/coding-interview-university",
+        "tensorflow/tensorflow",
+        "PKUanonym/REKCARC-TSC-UHT",
+        "UFund-Me/Qbot",
+        "boyu-ai/Hands-on-RL",
+        "andkulikov/Transitions-Everywhere",
+        "johnno1962/InjectionIII",
+        "shadcnstudio/shadcn-studio",
+        "General-Legal/legal-templates",
+        "ponchio/untrunc"
+      ]
     }
   ]
 }
