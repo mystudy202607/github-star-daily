@@ -1109,6 +1109,21 @@
         "General-Legal/legal-templates",
         "ponchio/untrunc"
       ]
+    },
+    {
+      "date": "2026-11-18",
+      "repos": [
+        "Hack-with-Github/Awesome-Hacking",
+        "Dogfalo/materialize",
+        "yewstack/yew",
+        "maxwellito/vivus",
+        "jazzband/django-silk",
+        "tfutils/tfenv",
+        "elie222/rakazo",
+        "AhmadHassan-BTed/ThreadRace",
+        "johnousterhout/aposd-vs-clean-code",
+        "enhancedformysql/The-Art-of-Problem-Solving-in-Software-Engineering_How-to-Make-MySQL-Better"
+      ]
     }
   ]
 }
