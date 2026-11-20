@@ -1139,6 +1139,21 @@
         "igdmapps/igdm",
         "EchoMusicApp/Echo-Music"
       ]
+    },
+    {
+      "date": "2026-11-20",
+      "repos": [
+        "pytorch/pytorch",
+        "nuysoft/Mock",
+        "stitionai/devika",
+        "M2Team/NanaZip",
+        "dogecoin/dogecoin",
+        "knowledgefxg/learning-english",
+        "Lora-net/LoRaMac-node",
+        "scraly/developers-conferences-agenda",
+        "Ebony-Vinyl/EAC-Desktop",
+        "Tencent/BrowserSkill"
+      ]
     }
   ]
 }
