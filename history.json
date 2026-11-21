@@ -1154,6 +1154,21 @@
         "Ebony-Vinyl/EAC-Desktop",
         "Tencent/BrowserSkill"
       ]
+    },
+    {
+      "date": "2026-11-21",
+      "repos": [
+        "junegunn/fzf",
+        "nomic-ai/gpt4all",
+        "google/styleguide",
+        "amnezia-vpn/amnezia-client",
+        "KaiyangZhou/deep-person-reid",
+        "dtolnay/proc-macro-workshop",
+        "benedekrozemberczki/awesome-graph-classification",
+        "oblitum/Interception",
+        "NVIDIA-NeMo/labs-OO-Agents",
+        "smapiot/piral"
+      ]
     }
   ]
 }
