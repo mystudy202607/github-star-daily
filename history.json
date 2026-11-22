@@ -1169,6 +1169,21 @@
         "NVIDIA-NeMo/labs-OO-Agents",
         "smapiot/piral"
       ]
+    },
+    {
+      "date": "2026-11-22",
+      "repos": [
+        "infiniflow/ragflow",
+        "cvat-ai/cvat",
+        "nidhinjs/prompt-master",
+        "firebase/firebaseui-web",
+        "X11Libre/xserver",
+        "CalcProgrammer1/OpenRGB",
+        "FreeRTOS/FreeRTOS-Kernel",
+        "legalize-dev/legalize-es",
+        "Cyfrin/security-and-auditing-full-course-s23",
+        "intentfreedomain/FreeDomain"
+      ]
     }
   ]
 }
