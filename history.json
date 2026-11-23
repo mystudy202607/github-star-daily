@@ -1184,6 +1184,21 @@
         "Cyfrin/security-and-auditing-full-course-s23",
         "intentfreedomain/FreeDomain"
       ]
+    },
+    {
+      "date": "2026-11-23",
+      "repos": [
+        "subquery/subql",
+        "yoyodadada/haoruanfenxiang",
+        "lokalise/i18n-ally",
+        "UX-Decoder/Segment-Everything-Everywhere-All-At-Once",
+        "OTRF/ThreatHunter-Playbook",
+        "kwai/DouZero",
+        "CarGuo/gsy_flutter_book",
+        "mschwartz/assembly-tutorial",
+        "figma/mcp-server-guide",
+        "boycy815/PinchImageView"
+      ]
     }
   ]
 }
