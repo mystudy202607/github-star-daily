@@ -1199,6 +1199,21 @@
         "figma/mcp-server-guide",
         "boycy815/PinchImageView"
       ]
+    },
+    {
+      "date": "2026-11-24",
+      "repos": [
+        "microsoft/terminal",
+        "nicbarker/clay",
+        "brix/crypto-js",
+        "microsoft/pyright",
+        "appshubcc/Bettbox",
+        "danielgtaylor/aglio",
+        "hongyangAndroid/baseAdapter",
+        "LadyKerr/github-certification-guide",
+        "caomaolufei/AIInfraGuide",
+        "vlondon/awesome-swiftui"
+      ]
     }
   ]
 }

@@ -308,3 +308,12 @@
 [2026-11-23 14:06:16] 抽选 2026-11-23：subquery/subql, yoyodadada/haoruanfenxiang, lokalise/i18n-ally, UX-Decoder/Segment-Everything-Everywhere-All-At-Once, OTRF/ThreatHunter-Playbook, kwai/DouZero, CarGuo/gsy_flutter_book, mschwartz/assembly-tutorial, figma/mcp-server-guide, boycy815/PinchImageView
 [2026-11-23 14:06:16] 已保存 data.json（第 80 期，累计 800 条）
 [2026-11-23 14:06:16] index.html 已重新生成
+[2026-11-24 16:44:39] 开始刷新候选池...
+[2026-11-24 16:45:37] 区间 stars:>20000：候选池累计 5233 个
+[2026-11-24 16:46:35] 区间 stars:5000..20000：候选池累计 5242 个
+[2026-11-24 16:47:39] 区间 stars:2000..5000：候选池累计 5284 个
+[2026-11-24 16:48:46] 区间 stars:800..2000：候选池累计 5351 个
+[2026-11-24 16:48:46] 候选池刷新完成：5351 个唯一项目
+[2026-11-24 16:48:46] 抽选 2026-11-24：microsoft/terminal, nicbarker/clay, brix/crypto-js, microsoft/pyright, appshubcc/Bettbox, danielgtaylor/aglio, hongyangAndroid/baseAdapter, LadyKerr/github-certification-guide, caomaolufei/AIInfraGuide, vlondon/awesome-swiftui
+[2026-11-24 16:48:46] 已保存 data.json（第 81 期，累计 810 条）
+[2026-11-24 16:48:46] index.html 已重新生成
