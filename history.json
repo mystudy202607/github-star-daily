@@ -1214,6 +1214,21 @@
         "caomaolufei/AIInfraGuide",
         "vlondon/awesome-swiftui"
       ]
+    },
+    {
+      "date": "2026-11-25",
+      "repos": [
+        "charmbracelet/bubbletea",
+        "MetaCubeX/mihomo",
+        "huggingface/trl",
+        "tmux-plugins/tpm",
+        "unplugin/unplugin-icons",
+        "fex-team/kityminder",
+        "Jakubantalik/transitions.dev",
+        "tailscale/golink",
+        "amirh00sain/SpiderPanel",
+        "matz/spinel"
+      ]
     }
   ]
 }
