@@ -1229,6 +1229,21 @@
         "amirh00sain/SpiderPanel",
         "matz/spinel"
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "repos": [
+        "ahujasid/mcp-for-blender",
+        "davatorium/rofi",
+        "hashicorp/packer",
+        "homarr-labs/homarr",
+        "tmstack/awesome-persona-skills",
+        "Yoast/wordpress-seo",
+        "oetiker/SmokePing",
+        "leoMirandaa/shadcn-landing-page",
+        "gdquest-demos/godot-4-procedural-generation",
+        "ihebski/A-Red-Teamer-diaries"
+      ]
     }
   ]
 }
