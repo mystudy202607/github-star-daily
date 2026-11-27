@@ -1244,6 +1244,21 @@
         "gdquest-demos/godot-4-procedural-generation",
         "ihebski/A-Red-Teamer-diaries"
       ]
+    },
+    {
+      "date": "2026-11-27",
+      "repos": [
+        "strapi/strapi",
+        "shanraisshan/claude-code-best-practice",
+        "prometheus/prometheus",
+        "vxunderground/MalwareSourceCode",
+        "square/picasso",
+        "didilili/ai-agents-from-zero",
+        "WhisperSpeech/WhisperSpeech",
+        "Anil-matcha/ai-creator-academy",
+        "stormzhang/ai-coding-guide",
+        "openkursar/hello-halo"
+      ]
     }
   ]
 }
