@@ -1259,6 +1259,21 @@
         "stormzhang/ai-coding-guide",
         "openkursar/hello-halo"
       ]
+    },
+    {
+      "date": "2026-11-28",
+      "repos": [
+        "x64dbg/x64dbg",
+        "mobile-dev-inc/Maestro",
+        "vladelaina/Catime",
+        "MCSManager/MCSManager",
+        "andrewngu/sound-redux",
+        "baidu/san",
+        "alandtse/alexa_media_player",
+        "guard/listen",
+        "psal/anonymouth",
+        "GameFoundry/B3DFramework"
+      ]
     }
   ]
 }
